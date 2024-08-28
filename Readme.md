@@ -1,1 +1,1 @@
-# Github Balantım Başarılı
+# Github Bağlantım Başarılı
